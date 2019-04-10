@@ -1,4 +1,4 @@
-The files related to the project are 'Pre and post air strike' and 'Sentiments BJP and Cong'. The remaining files are assignments done in class.
+The files related to the project are 'Sentana.csv','Pre and post air strike' and 'Sentiments BJP and Cong'. The remaining files are assignments done in class.
 
 Step 1: To compile the project just download the above mentioned project files and the .csv file.
 Step 2: Store all these files in the same location.
